@@ -1,7 +1,7 @@
 <h1 align="center">👕 AI-Powered 3D Website Using React </h1>
 
 <h3 align ="center">
- <a  href="https://johannes-kofler.com/"><strong>LIVE DEMO</strong></a>
+ <a  href="https://tshirtmaker.netlify.app/"><strong>LIVE DEMO</strong></a>
 </h3>
 <p align=”center”>3D graphics to showcase product</p>
 
